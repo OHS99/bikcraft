@@ -43,21 +43,8 @@
   content: "”";
 }
 
-<<<<<<< HEAD
-@media (max-width: 800px) {
-  .depoimento {
-    grid-template-columns: 1fr;
-    text-align: center;
-  }
-  .depoimento img {
-    max-height: 200px;
-  }
-  .depoimento-conteudo {
-    padding: 40px 20px;
-    margin: auto;
-  }
-}
-=======
+
+
 @media (max-width: 800px){
     .depoimento{
         grid-template-columns: 1fr;
@@ -71,4 +58,4 @@
         margin: auto;
     }
 }
->>>>>>> 6f4ad1499b071d90627c2daa9f8e1688f9c99260
+
